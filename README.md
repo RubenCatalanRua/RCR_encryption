@@ -1,2 +1,2 @@
 # RCR_encryption
-A simple, yet powerful, encryption method based on alphabet rearrangement.
+A simple, yet powerful, encryption program based on alphabet rearrangement.
